@@ -1,6 +1,4 @@
-#this program finds the area of a circle, and has a little bit of fun
-#I'm writing this to get started with Python and programming concepts, and decided to play with how time delays and line breaks affect the user experience
-#I hope everyone enjoys this
+#this program finds the area of a circle in the most annoying way possible
 
 import time #import the time module so we can add delays later
 
