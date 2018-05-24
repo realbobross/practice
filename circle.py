@@ -51,7 +51,4 @@ print("bye bye") #thank GOD we're getting out of here
 
 # I hope you enjoyed this code. My wife rolled her eyes pretty hard and didn't care.
 
-# I would like this program to have a response such as "Only enter a number" and ask for another input if a user enters letters or other characters as the radius of the circle
-# I'd also like to end this program by asking if the user would like to find the area of another circle, allowing them to either repeat the program or end it with yes/no input
-
-#If you can help me improve this silly little program in any way, please do! 
+#Would like this program to ask "Would you like to find the area of another circle?" and loop if yes
